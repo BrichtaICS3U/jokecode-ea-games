@@ -1,0 +1,3 @@
+print('what is the difference between light and hard')
+input()
+print('you can sleep with a light on')
