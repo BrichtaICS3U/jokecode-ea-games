@@ -1,0 +1,3 @@
+print('Where were the first french fries cooked?(press any key)')
+input()
+print('Greece')
